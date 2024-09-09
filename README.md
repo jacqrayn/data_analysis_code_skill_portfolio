@@ -6,8 +6,7 @@
 
 <div style="background-color: ; padding: 10px;">
 
-### **Data Analysis Coding Skills Portfolio**
----
+## **Data Analysis Coding Skills Portfolio**
 > ### [Business Case Study](./case_study/case_study.md): Markdown for documentation.
 > ### [Data Cleaning and DataFrames](./data_cleaning_dataframe/data_cleaning_sample.ipynb): CSV and Pandas for data manipulation.
 > ### [API Calls](./api_json_sample/api_json_sample.ipynb): JSON and loops for API interaction.
