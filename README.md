@@ -1,7 +1,7 @@
 # **Jacqueline Raynolds**
 
 * ### **Seeking an analyst position in Washington, DC.**
-* ### Can code in PYTHON, SQL.
+* ### Can code in Python, SQL.
 * ### Email: jraynolds@gmail.com
 
 <div style="background-color: ; padding: 10px;">
